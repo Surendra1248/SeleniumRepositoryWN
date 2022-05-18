@@ -1,0 +1,4 @@
+resources\Base.class
+pageObjects\LandingPage.class
+pageObjects\MyAccountPage.class
+pageObjects\LoginPage.class

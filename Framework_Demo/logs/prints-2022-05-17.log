@@ -1,0 +1,72 @@
+20:53:06.552 [TestNG-tests-2] DEBUG io.netty.util.internal.PlatformDependent0 -java.nio.DirectByteBuffer.<init>(long, int): unavailable
+20:53:06.557 [TestNG-tests-2] DEBUG io.netty.util.internal.PlatformDependent -sun.misc.Unsafe: available
+20:53:06.558 [TestNG-tests-2] DEBUG io.netty.util.internal.PlatformDependent -maxDirectMemory: 2101346304 bytes (maybe)
+20:53:06.559 [TestNG-tests-2] DEBUG io.netty.util.internal.PlatformDependent --Dio.netty.tmpdir: C:\Users\suren\AppData\Local\Temp (java.io.tmpdir)
+20:53:06.559 [TestNG-tests-2] DEBUG io.netty.util.internal.PlatformDependent --Dio.netty.bitMode: 64 (sun.arch.data.model)
+20:53:06.559 [TestNG-tests-2] DEBUG io.netty.util.internal.PlatformDependent -Platform: Windows
+20:53:06.560 [TestNG-tests-2] DEBUG io.netty.util.internal.PlatformDependent --Dio.netty.maxDirectMemory: -1 bytes
+20:53:06.560 [TestNG-tests-2] DEBUG io.netty.util.internal.PlatformDependent --Dio.netty.uninitializedArrayAllocationThreshold: -1
+20:53:06.560 [TestNG-tests-2] DEBUG io.netty.util.internal.CleanerJava9 -java.nio.ByteBuffer.cleaner(): available
+20:53:06.561 [TestNG-tests-2] DEBUG io.netty.util.internal.PlatformDependent --Dio.netty.noPreferDirect: false
+20:53:06.569 [TestNG-tests-2] DEBUG io.netty.util.internal.PlatformDependent -org.jctools-core.MpscChunkedArrayQueue: available
+20:53:06.583 [TestNG-tests-2] DEBUG io.netty.util.internal.InternalThreadLocalMap --Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+20:53:06.584 [TestNG-tests-2] DEBUG io.netty.util.internal.InternalThreadLocalMap --Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+20:53:06.605 [TestNG-tests-2] DEBUG io.netty.handler.ssl.JdkSslContext -Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+20:53:06.605 [TestNG-tests-2] DEBUG io.netty.handler.ssl.JdkSslContext -Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+20:53:06.635 [TestNG-tests-2] DEBUG io.netty.channel.MultithreadEventLoopGroup --Dio.netty.eventLoopThreads: 24
+20:53:06.642 [TestNG-tests-2] DEBUG io.netty.channel.nio.NioEventLoop --Dio.netty.noKeySetOptimization: false
+20:53:06.642 [TestNG-tests-2] DEBUG io.netty.channel.nio.NioEventLoop --Dio.netty.selectorAutoRebuildThreshold: 512
+20:53:06.651 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@41a1c8f0
+20:53:06.652 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7460377c
+20:53:06.653 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@8692de2
+20:53:06.653 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2f51d718
+20:53:06.654 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@acf04ab
+20:53:06.655 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7fe11959
+20:53:06.655 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@3ea62d7a
+20:53:06.656 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1f6ed4a1
+20:53:06.657 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6d7661bb
+20:53:06.657 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1a2a869d
+20:53:06.658 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@15e8a55f
+20:53:06.659 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@7c4aa09f
+20:53:06.660 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@226f7d14
+20:53:06.660 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6cbf19aa
+20:53:06.661 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@3cad8b3f
+20:53:06.662 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@154a8a6d
+20:53:06.662 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4c14d20d
+20:53:06.663 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@58f2f06c
+20:53:06.664 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@8d67c3e
+20:53:06.665 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@498e96ab
+20:53:06.665 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@2360b12d
+20:53:06.666 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6cde44bd
+20:53:06.667 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@57d2f294
+20:53:06.668 [TestNG-tests-2] TRACE io.netty.channel.nio.NioEventLoop -instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@6a540d0b
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.numHeapArenas: 24
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.numDirectArenas: 24
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.pageSize: 8192
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.maxOrder: 9
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.chunkSize: 4194304
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.smallCacheSize: 256
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.normalCacheSize: 64
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.maxCachedBufferCapacity: 32768
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.cacheTrimInterval: 8192
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.cacheTrimIntervalMillis: 0
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.useCacheForAllThreads: false
+20:53:06.685 [TestNG-tests-2] DEBUG io.netty.buffer.PooledByteBufAllocator --Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+20:53:06.694 [TestNG-tests-2] DEBUG io.netty.buffer.ByteBufUtil --Dio.netty.allocator.type: pooled
+20:53:06.694 [TestNG-tests-2] DEBUG io.netty.buffer.ByteBufUtil --Dio.netty.threadLocalDirectBufferSize: 0
+20:53:06.694 [TestNG-tests-2] DEBUG io.netty.buffer.ByteBufUtil --Dio.netty.maxThreadLocalCharBufferSize: 16384
+20:53:07.415 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId --Dio.netty.processId: 10556 (auto-detected)
+20:53:07.417 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil --Djava.net.preferIPv4Stack: false
+20:53:07.417 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil --Djava.net.preferIPv6Addresses: false
+20:53:07.505 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations -Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+20:53:07.506 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil -Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+20:53:07.592 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId --Dio.netty.machineId: 08:6a:c5:ff:fe:59:1e:ec (auto-detected)
+20:53:07.628 [AsyncHttpClient-1-3] DEBUG io.netty.buffer.AbstractByteBuf --Dio.netty.buffer.checkAccessible: true
+20:53:07.628 [AsyncHttpClient-1-3] DEBUG io.netty.buffer.AbstractByteBuf --Dio.netty.buffer.checkBounds: true
+20:53:07.628 [AsyncHttpClient-1-3] DEBUG io.netty.util.ResourceLeakDetectorFactory -Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@7a43ac7e
+20:53:07.650 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler --Dio.netty.recycler.maxCapacityPerThread: 4096
+20:53:07.650 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler --Dio.netty.recycler.ratio: 8
+20:53:07.650 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler --Dio.netty.recycler.chunkSize: 32
+20:53:07.650 [AsyncHttpClient-1-4] DEBUG io.netty.util.Recycler --Dio.netty.recycler.blocking: false
+20:53:08.682 [AsyncHttpClient-1-3] DEBUG io.netty.handler.codec.compression.Brotli -brotli4j not in the classpath; Brotli support will be unavailable.
+20:53:08.971 [TestNG-tests-2] DEBUG io.netty.util.internal.ThreadLocalRandom --Dio.netty.initialSeedUniquifier: 0xe6ff38a3a9a8cb40
