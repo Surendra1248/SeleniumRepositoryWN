@@ -12,7 +12,7 @@ public class TwoTest extends Base {
 	@Test
 	public void testTwo() throws IOException, InterruptedException {
 		System.out.println("TestTwo");
-		
+		System.out.println("Changes made by Sruthi");
 		 driver=initializeDriver();
 		driver.get("https://www.google.co.in/");
 		Thread.sleep(3000);
